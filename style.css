@@ -1,0 +1,17 @@
+
+
+
+.card-subtitle{
+    font-family: 'Helvetica Neue';
+font-style: normal;
+font-weight: 500;
+color: #6C757D;
+}
+
+.container{
+    padding: 10px;
+}
+
+.nav-item{
+    color: blue;
+}
